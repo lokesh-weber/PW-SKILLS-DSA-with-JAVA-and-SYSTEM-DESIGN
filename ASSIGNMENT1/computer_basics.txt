@@ -1,0 +1,67 @@
+1. What is Computer?
+
+A computer is a programmable electronic device that accepts raw data as input and processes it with a set of instructions
+(a program) to produce the result as output.
+
+Examples:- Mobile , Tablet , Calculator etc.
+
+****************************************
+
+2. What is RAM?
+
+RAM (random access memory) is a computer's short-term memory, where the data that the processor is currently using is
+stored. It is a volatile memory .
+
+****************************************
+
+3. Where is data stored in a computer?
+
+In a computer data is stored in SECOND MEMORY(HDD/SSD).
+
+****************************************
+
+4. What is that input device used to type text and numbers on a document in the computer system?
+
+Keyboard.
+
+****************************************
+
+5. What are the output devices?
+
+The output devices are used to convert the computer produced output into human-readable form. The output device takes
+information from the computer and presents it in the form of projection, display, or on paper.
+
+Top examples include:
+
+Monitor 
+Printer
+Speaker etc.
+
+****************************************
+
+6. What is the input device that allows a user to move the cursor or pointer on the screen?
+
+Mouse
+
+****************************************
+
+7. Which language is directly understood by the computer without translation program?
+
+Binary language
+
+****************************************
+
+8. What are input devices
+
+An input device is a term for a physical piece of hardware that connects to a primary device, such as a computer, in order to provide user input.
+
+Input devices are generally a class of peripheral devices that connect to the primary device.
+
+Top examples include:
+
+Keyboards
+Mouse devices
+Joysticks
+Microphones
+And web cameras
+
