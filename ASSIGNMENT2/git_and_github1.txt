@@ -1,0 +1,70 @@
+1. What is Git?
+
+Git is a modern and widely used distributed version control system in the world. It is developed to manage projects with
+high speed and efficiency. The version control system allows us to monitor and work together with our team members at the same workspace.
+
+****************************************
+
+2. What do you understand by the term 'Version Control System'?
+
+Version control systems are a category of software tools that helps in recording changes made to files by keeping a track
+of modifications done in the code. 
+
+****************************************
+
+3. What is GitHub?
+
+GitHub is a Git repository hosting service. GitHub also facilitates with many of its features, such as access control and
+collaboration. It provides a Web-based graphical interface.
+GitHub is a place where programmers and designers work together. They collaborate, contribute, and fix bugs together. It 
+osts plenty of open source projects and codes of various programming languages.
+
+****************************************
+
+4. Mention some popular Git hosting services.
+
+Bitbucket
+GitHub
+GitLab
+Perforce
+Beanstalk
+Amazon AWS CodeCommit
+Codebase
+Microsoft Azure DevOps
+SourceForge
+Gerrit
+
+****************************************
+
+5. Different types of version control system
+
+i) Local Version Control System.
+ii) Centralized Version Control System.
+iii) Distributed Version Control System.
+
+****************************************
+
+6. What benefits come with using GIT?
+
+Some benefits of using GIT are -
+
+Revert the code files back to their previous state
+Recall and revert the entire project back to its previous state
+Compare code changes over specific durations of time
+Find who last modified a piece of code that might be causing an issue or a problem
+Who introduced a particular issue and when
+
+****************************************
+
+7. What is a Git repository?
+
+A Git repository tracks and saves the history of all changes made to the files in a Git project. It saves this data in a
+directory called .git, also known as the repository folder.
+
+****************************************
+
+8. How can you initialize a repository in Git?
+
+git init
+
+****************************************
